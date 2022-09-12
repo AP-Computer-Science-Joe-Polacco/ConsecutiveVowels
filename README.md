@@ -5,7 +5,7 @@
 1. Complete the method countConsectiveVowels() in the ConsecutiveVowels class.
 
 2. Test that it works by running some test cases as seen in the method comments below:
-`
+<code>
     /**
      * returns the count of the largest number of consecutive vowels in str
      * e.g. countConsecutiveVowels("copious") returns 3
@@ -21,5 +21,5 @@
        
         return 0; // delete this line of code
     }
-`
+</code>
 3. Complete the method mostConsecutiveVowelsInDictionary() and test that it works by running the main method in ConsecutiveVowels.java. 
