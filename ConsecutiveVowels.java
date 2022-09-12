@@ -64,7 +64,7 @@ public class ConsecutiveVowels
      * e.g. countConsecutiveVowels("copious") returns 3
      * e.g. countConsecutiveVowels("baaabaabaaaa") returns 4
      * e.g. countConsecutiveVowels("sequoia") returns 4
-     * e.g  countConsecutiveVowels("aabaaabab") returns 3
+     * e.g  countConsecutiveVowels("aebioubab") returns 3
      */
     static int countConsecutiveVowels(String str){
         // How might this string help you? 
