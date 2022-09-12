@@ -1,6 +1,6 @@
 # ConsecutiveVowels
 
-0. Download ConsecutiveVowels.java, ConsecutiveVowelsTest.java, and words.txt and store them all in the same folder.
+0. Download ConsecutiveVowels.java and words.txt and store them both in the same folder.
 
 1. Complete the method countConsectiveVowels() in the ConsecutiveVowels class.
 
