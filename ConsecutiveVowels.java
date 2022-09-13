@@ -10,8 +10,13 @@ import java.io.*;
 public class ConsecutiveVowels
 {
     public static void main(String[] args){
-        String vowellyWord = mostConsecutiveVowelsInDictionary("words.txt");
-        System.out.println("The most vowelly word is : " + vowellyWord );
+        
+        // TODO:
+        // Write some test code for your countConsecutiveVowels method
+        
+        // uncomment these two lines of code for part 2
+        // String vowellyWord = mostConsecutiveVowelsInDictionary("words.txt");
+        // System.out.println("The most vowelly word is : " + vowellyWord );
            
     }
     
